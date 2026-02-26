@@ -44,7 +44,7 @@ Skills being developed:
 
 - Documenting incidents with an incident handler’s journal 
 
-- Importing and parsing a text file in a security-related scenario
+
 
 
 

@@ -29,11 +29,30 @@ Skills being developed:
 - Incident response procedures
 - Risk management
 
+## Projects
+- Drafting a professional statement
+
+- Conducting a security audit///// (Botium Toys Security Audit from Google Cybersecurity Course complete)
+
+- Analyzing network structure and security
+
+- Using Linux commands to manage file permissions
+
+- Applying filters to SQL queries
+
+- Identifying vulnerabilities for a small business
+
+- Documenting incidents with an incident handler’s journal 
+
+- Importing and parsing a text file in a security-related scenario
+
+
+
 🔗 GitHub: https://github.com/devByJustin-sys  
 🔗 LinkedIn: https://www.linkedin.com/in/justin-bledsoe-224b74343/
 
 ---
 
-⭐ Thank you for reviewing my cybersecurity portfolio.  
+Thank you for reviewing my cybersecurity portfolio.  
 I am actively building hands-on projects and expanding my skills as I prepare for an entry-level cybersecurity role.
 
